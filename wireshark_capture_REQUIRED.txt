@@ -1,0 +1,13 @@
+TASK 10 – WIRESHARK CAPTURE
+
+This file is intentionally NOT a fabricated packet capture.
+
+The task requires an actual 5+ minute Wireshark capture from the authorized local/test network.
+
+Capture the traffic in Wireshark, export it as:
+
+wireshark_capture.pcap
+
+Then replace this placeholder file with the real .pcap capture before submitting to GitHub.
+
+Analyze HTTP, DNS, and ARP traffic and document the observations in network_security_assessment.md.
